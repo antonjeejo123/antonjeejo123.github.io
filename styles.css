@@ -1,0 +1,67 @@
+.title {
+  color: #08d9d6;
+}
+.content {
+  color: #11999e;
+}
+.profile-img {
+  width: 200px;
+  height: 300px;
+}
+.top-contents {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.projects {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.project {
+  padding-left: 50px;
+}
+.project-desc {
+  padding-left: 30px;
+}
+.project-title {
+  font-style: italic;
+  color: #08d9d6;
+}
+.project-heading {
+  text-decoration: underline;
+  color: #ff2e63;
+}
+.tech-img1 {
+  margin-left: 50px;
+  height: 40px;
+}
+.tech-img2 {
+  margin-left: 80px;
+  height: 40px;
+}
+.tech-img3 {
+  margin-left: 90px;
+  height: 40px;
+}
+.tech-img4 {
+  margin-left: 30px;
+  height: 40px;
+}
+.tech-known {
+  display: flex;
+  justify-content: space-between;
+  width: 8%;
+  padding-left: 50px;
+  color: #08d9d6;
+}
+footer {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  background: #eaeaea;
+}
